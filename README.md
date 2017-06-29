@@ -1,3 +1,8 @@
+HEROKU URL:
+
+https://stark-beyond-50208.herokuapp.com/
+
+
 # NowTV React Interview
 
 ![NowTV](./logo.png)
